@@ -1,0 +1,4 @@
+plugins:
+  ooyala_player_id:
+    default: ''
+    client: true

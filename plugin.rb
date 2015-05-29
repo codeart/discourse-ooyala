@@ -5,3 +5,4 @@
 
 register_asset "javascripts/ooyala_dialect.js", :server_side
 register_asset "javascripts/jquery.ooyala-player.js"
+register_asset "stylesheets/ooyala-player.css"
