@@ -20,7 +20,7 @@
     var data = $target.data();
 
     if (data.embedWidth) settings.width = data.embedWidth;
-    if (data.embedHeight) settings.hight = data.embedHight;
+    if (data.embedHeight) settings.height = data.embedHeight;
 
     var percentage_height = settings.height && settings.height.indexOf("%") >= 0,
         percentage_width = settings.width && settings.width.indexOf("%") >= 0;
