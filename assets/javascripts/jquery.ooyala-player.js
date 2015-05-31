@@ -1,6 +1,6 @@
 (function($) {
   var default_settings = {
-    width: "690px"
+    width: "100%"
   };
 
   var aspect = 1.77777778; // 16/9
